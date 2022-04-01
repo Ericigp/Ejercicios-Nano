@@ -3,7 +3,6 @@
 Created on Fri Mar 25 10:06:06 2022
 @author: Eric-Portatil
 Clase practica nanoelectronica 1/04/22
-Sale lo que tendria que salir pero como si estuviera centrado en el 4/-4 preguntar en clase
 """
 #%%
 """"Importacion de librerias"""
